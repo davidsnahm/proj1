@@ -16,6 +16,8 @@ I passed in the 'show' action for the trainers controller because show.html.erb 
 # Question 5: Explain how putting this line "flash[:error] = @pokemon.errors.full_messages.to_sentence" shows error messages on your form.
 The error message is stored, so that when an error occurs, the error message is displayed to the user. 
 
+https://github.com/davidsnahm/proj1
+
 # Give us feedback on the project and decal below!
 
 # Extra credit: Link your Heroku deployed app
